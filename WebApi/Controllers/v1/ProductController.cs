@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Application.Features.ProductFeatures.Commands;
-using Application.Features.ProductFeatures.Queries;
+
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+
+using Application.Features.ProductFeatures.Commands;
+using Application.Features.ProductFeatures.Queries;
 
 namespace WebApi.Controllers.v1
 {

@@ -18,6 +18,7 @@ namespace Persistence.Context
 
             base.OnModelCreating(modelBuilder);
         }
+
         public DbSet<Product> Products { get; set; }
         public async Task<int> SaveChangesAsync()
         {
