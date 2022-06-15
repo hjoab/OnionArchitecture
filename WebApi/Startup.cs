@@ -1,4 +1,4 @@
-
+using Application;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -6,8 +6,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-
-using Application;
 using Persistence;
 
 namespace WebApi
@@ -48,11 +46,8 @@ namespace WebApi
                 config.ReportApiVersions = true;
             });
             #endregion
-
             services.AddApplication();
             services.AddPersistence(Configuration);
-
-
             services.AddControllers();
         }
 
@@ -65,13 +60,10 @@ namespace WebApi
             }
 
             app.UseHttpsRedirection();
-            app.UseRouting();
-            app.UseAuthorization();
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllers();
-            });
 
+            app.UseRouting();
+
+            app.UseAuthorization();
             #region Swagger
             // Enable middleware to serve generated Swagger as a JSON endpoint.
             app.UseSwagger();
@@ -83,11 +75,10 @@ namespace WebApi
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "OnionArchitecture");
             });
             #endregion
-
-
-
-
-
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }

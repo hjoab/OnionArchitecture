@@ -1,9 +1,7 @@
-﻿
+﻿using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
-
-using MediatR;
 
 namespace WebApi.Controllers
 {

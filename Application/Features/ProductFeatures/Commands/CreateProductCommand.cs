@@ -1,13 +1,11 @@
-﻿
+﻿using Application.Interfaces;
+using Domain.Entities;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-
-using Application.Interfaces;
-using Domain.Entities;
-using MediatR;
 
 namespace Application.Features.ProductFeatures.Commands
 {
