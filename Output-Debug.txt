@@ -1,0 +1,167 @@
+﻿'iisexpress.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Private.CoreLib.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Runtime.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\SDK\6.0.201\DotnetTools\dotnet-watch\6.0.201-servicing.22124.17\tools\net6.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Runtime.Extensions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Net.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Server.IIS.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Hosting.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Hosting.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Hosting.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.DependencyInjection.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Logging.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Collections.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\netstandard.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.ComponentModel.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.IO.FileSystem.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Hosting.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Primitives.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Threading.Tasks.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Linq.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Threading.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Server.Kestrel.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Runtime.InteropServices.RuntimeInformation.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Server.IISIntegration.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.CommandLine.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Mvc.Core.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Http.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Resources.ResourceManager.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.FileProviders.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.FileProviders.Physical.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Memory.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.FileExtensions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.Json.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.UserSecrets.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Runtime.InteropServices.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Configuration.Binder.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Private.Uri.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.IO.FileSystem.Watcher.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.ComponentModel.Primitives.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Collections.Concurrent.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.FileSystemGlobbing.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Threading.Timer.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Threading.Overlapped.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\Microsoft.Win32.Primitives.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Text.Json.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Text.Encoding.Extensions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Buffers.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Numerics.Vectors.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Runtime.CompilerServices.Unsafe.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Options.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Logging.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Logging.EventLog.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Logging.Configuration.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Logging.Console.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Logging.Debug.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Logging.EventSource.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Tracing.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.DiagnosticSource.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Http.Features.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Http.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Connections.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Net.Primitives.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.HostFiltering.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.HttpOverrides.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Routing.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.ObjectPool.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Routing.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.ObjectModel.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Authentication.Core.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Authentication.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Security.Claims.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Application.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Persistence.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Mvc.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Mvc.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\MediatR.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Domain.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Threading.Tasks.Extensions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Data.Common.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Authorization.Policy.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Authorization.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Mvc.Cors.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Cors.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Mvc.DataAnnotations.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Reflection.Emit.Lightweight.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Localization.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Threading.ThreadPool.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Console.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Threading.Thread.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.Diagnostics.EventLog.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Collections.Specialized.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.ComponentModel.TypeConverter.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.IO.MemoryMappedFiles.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.HttpsPolicy.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Reflection.Emit.ILGeneration.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Reflection.Primitives.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Diagnostics.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Net.Http.Headers.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Text.Encodings.Web.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Drawing.Primitives.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Debug.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Security.Principal.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.ComponentModel.Annotations.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Metadata.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Text.RegularExpressions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.StaticFiles.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.FileProviders.Embedded.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Linq.Expressions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\System.IO.Pipelines.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Security.Cryptography.X509Certificates.dll'. Symbols loaded.
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.Http.Extensions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Xml.XPath.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Private.Xml.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Security.Cryptography.Algorithms.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Xml.ReaderWriter.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.AspNetCore.WebUtilities.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Net.Sockets.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Net.NameResolution.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Net.WebSockets.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Security.Principal.Windows.dll'. Symbols loaded.
+Exception thrown: 'System.OperationCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.OperationCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.OperationCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.OperationCanceledException' in System.Private.CoreLib.dll
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Caching.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Transactions.Local.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.23\Microsoft.Extensions.Caching.Memory.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Collections.Immutable.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Linq.Queryable.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'T:\DEV\repos\gl\hjoab\MongeCebolla\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Net.WebClient.dll'. 
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Security.Cryptography.Primitives.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Text.Encoding.CodePages.dll'. Symbols loaded.
+'iisexpress.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.23\System.Diagnostics.Process.dll'. Symbols loaded.
+The thread 0x2160 has exited with code 0 (0x0).
+The thread 0x578c has exited with code 0 (0x0).
+The thread 0x6e58 has exited with code 0 (0x0).
+The program '[8316] iisexpress.exe' has exited with code 4294967295 (0xffffffff).

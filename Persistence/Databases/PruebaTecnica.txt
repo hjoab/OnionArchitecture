@@ -1,0 +1,31 @@
+
+
+- ¿Explique brevemente en sus propias palabras que entiendo por el termino microservicios?
+surge como contraposición  los servicios gruesos y pesados donde que involucran varias fuentes de datos y sistemas.
+Los microservicios evitan esto segrdgando los diferentes servicios (desacoplandolos) descompniendo los servicios mas grusos en servicos más pequenos y más digirodos tal que se vuelva mucho mas facil su puesta punto.
+esto hace más facil darles matenimiento y tambien que san más eficientes, ya que e pueden optimizar sin comprometer las demas servicios, son más resilientes, escalables, se pueden deployar independientemente, y pueden evolucionar muy rapidamente.
+
+- ¿Que es un ORM? ¿Ha utiliado ORMs? ¿Cuales? 
+
+Object Relation Mapping,es un framework que cumple la tarea de ser una capa entre el modelo de objetos en OOP y el modelo de datos relacional de una base de datos relacion.
+Lo hace es mapear los entidades del modelo de datos OOP en sus correspodientes tablas de datos en la BD
+evitar convertir mapear los objetos entidades en tablas de datos  y alreves.
+EF Framework y Core, Dapper
+
+Practica
+- Corregir los errores existentes en el servicio de PruebaTecnica.Service.Rest y que este devuelve la información del articulo y Marca en su método listar. 
+
+- Tomar en consideración que se debe de utilizar la inyección de dependecias.
+
+- Corregir los errores existentes en el FrontEnd y listar en la tabla HTML de la vista "Index" todos los articulos existentes en la BD (utilizando el procedimiento almacenado) consumiendo el rest PruebaTecnica.Service.Rest 		
+
+
+
+NOTA:
+No le llegue. 
+Voy a verlo con más calma y resolverlo para mi
+Estuve estudiando con 
+https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/  
+Que es muy sencillo
+Pero el codigo de ustedes es muy diferente
+Gracias
